@@ -10,6 +10,7 @@ setup(name='separate_image',
       install_requires=[
           'cv2',
           'numpy',
-          'scipy'
+          'scipy',
+          'sklearn'
       ],
       zip_safe=False)
